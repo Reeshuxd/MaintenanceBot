@@ -8,6 +8,14 @@ OWNER_ID - Your Telegram User ID.
 MONGODB_URL - Get a db url from mongodb.com.
 ```
 
+## Deploying
+<p>
+<a href="https://heroku.com/deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+ </p>
+
+
 ## Support 
 You can contact us on our telegram [support chat](https://t.me/Userchatroom) for any query,
 related to this source and bot and can suggest new features.
