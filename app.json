@@ -1,0 +1,34 @@
+{
+    "name": "Maintenance Bot",
+    "description": "A bot which can hold other bots on Maintenance.",
+    "logo": "https://te.legra.ph/file/caea53cbba2c61b3a3b31.png",
+    "keywords": [
+        "telegram",
+        "python",
+        "telethon",
+        "maintenance",
+        "telegram bot"
+    ],
+    "repository": "https://github.com/Reeshuxd/MaintenanceBot",
+    "website": "https://t.me/aboutreeshu",
+    "success_url": "https://t.me/Reeshuxd",
+    "env": {
+        "TOKEN": {
+            "description": "Your Bot token from @BotFather",
+            "value": ""
+        },
+        "OWNER_ID": {
+            "description": "Your telegram yser id.",
+            "value": ""
+        },
+        "MONGODB_URL": {
+            "description": "Your database url from mongodb.com",
+            "value": ""
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
