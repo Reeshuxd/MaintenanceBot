@@ -10,7 +10,7 @@ MONGODB_URL - Get a db url from mongodb.com.
 
 ## Deploying
 <p>
-<a href="https://heroku.com/deploy">
+<a href="Heroku.com/deploy?template=https://github.com/reeshuxd/maintenancebot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
  </p>
